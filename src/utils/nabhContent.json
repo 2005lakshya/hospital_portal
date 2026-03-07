@@ -1,0 +1,1309 @@
+[
+    {
+        "title": "Chapter 1: Access Assessment and Continuity of Care (AAC)",
+        "intent": "Patients are informed of the services provided by the organisation. Only those patients who can be cared for by the organisation are admitted. Emergency patients receive life-stabilising treatment and are then either admitted or transferred. Patients that match the organisation's resources are admitted using a defined process. Laboratory and imaging services commensurate to the scope of services are provided.",
+        "standards": [
+            {
+                "code": "AAC.1",
+                "standard": "The organisation defines and displays the healthcare services that it provides.",
+                "elements": [
+                    "a. The healthcare services being provided are defined and are in consonance with the needs of the community.",
+                    "b. Each defined healthcare service should have diagnostic and treatment services with suitably qualified personnel who provide out-patient, in-patient and emergency cover.",
+                    "c. Scope of the healthcare services of each department is defined. *",
+                    "d. The organisation's defined healthcare services are prominently displayed."
+                ]
+            },
+            {
+                "code": "AAC.2",
+                "standard": "The organisation has a well-defined registration and admission process.",
+                "elements": [
+                    "a. The organisation uses written guidance for registering and admitting patients. *",
+                    "b. A unique identification number is generated at the end of the registration.",
+                    "c. Patients are accepted only if the organisation can provide the required service.",
+                    "d. The written guidance also addresses managing patients during non-availability of beds. *",
+                    "e. Access to the healthcare services in the organisation is prioritised according to the clinical needs of the patient. *"
+                ]
+            },
+            {
+                "code": "AAC.3",
+                "standard": "There is an appropriate mechanism for transfer (in and out) or referral of patients.",
+                "elements": [
+                    "a. Transfer-in of patients to the organisation is done appropriately. *",
+                    "b. Transfer-out/referral of patients to another facility is done appropriately. *",
+                    "c. During transfer or referral, accompanying staff are appropriate to the clinical condition of the patient.",
+                    "d. The organisation gives a summary of the patient's condition and the treatment given."
+                ]
+            },
+            {
+                "code": "AAC.4",
+                "standard": "Patients cared for by the organisation undergo an established initial assessment.",
+                "elements": [
+                    "a. The initial assessment of the outpatients, day-care, in-patients and emergency patients is done. *",
+                    "b. The initial assessment is performed by qualified personnel. *",
+                    "c. The initial assessment is performed within a time frame based on the needs of the patient. *",
+                    "d. Initial assessment of day-care and in-patients includes nursing assessment, which is done at the time of admission and documented.",
+                    "e. The initial assessment for in-patients results in a documented care plan.",
+                    "f. The care plan is countersigned by the clinician-in-charge of the patient within 24 hours.",
+                    "g. The care plan includes the identification of special needs regarding care following discharge."
+                ]
+            },
+            {
+                "code": "AAC.5",
+                "standard": "Patients cared for by the organisation undergo a regular reassessment.",
+                "elements": [
+                    "a. Patients are reassessed at appropriate intervals to determine their response to treatment and to plan further treatment or discharge.",
+                    "b. Out-patients are informed of their next follow-up, where appropriate.",
+                    "c. For in-patients during reassessment, the care plan is monitored and modified, where found necessary.",
+                    "d. Staff involved in direct clinical care document reassessments.",
+                    "e. The organisation lays down guidelines and implements processes to identify early warning signs of change or deterioration in clinical conditions for initiating prompt intervention."
+                ]
+            },
+            {
+                "code": "AAC.6",
+                "standard": "Laboratory services are provided as per the scope of services of the organisation.",
+                "elements": [
+                    "a. Scope of the laboratory services is commensurate to the services provided by the organisation.",
+                    "b. The infrastructure (physical and equipment) is adequate to provide the defined scope of services.",
+                    "c. Human resource is adequate to provide the defined scope of services.",
+                    "d. Qualified and trained personnel perform and supervise the investigations and report the results.",
+                    "e. Requisition for tests, collection, identification, handling, safe transportation, processing and disposal of a specimen is performed according to written guidance. *",
+                    "f. Laboratory results are available within a defined time frame. *",
+                    "g. Critical results are intimated to the person concerned at the earliest. *",
+                    "h. Results are reported in a standardised manner.",
+                    "i. There is a mechanism to address the recall / amendment of reports whenever applicable. *",
+                    "j. Laboratory tests not available in the organisation are outsourced to the organisation(s) based on their quality assurance system. *"
+                ]
+            },
+            {
+                "code": "AAC.7",
+                "standard": "There is an established laboratory quality assurance programme.",
+                "elements": [
+                    "a. The laboratory quality assurance programme is implemented. *",
+                    "b. The programme addresses verification and/or validation of test methods. *",
+                    "c. The programme ensures the quality of test results. *",
+                    "d. The programme includes periodic calibration and maintenance of all equipment. *",
+                    "e. The programme includes the documentation of corrective and preventive actions. *",
+                    "f. The programme addresses clinicopathological meeting(s)."
+                ]
+            },
+            {
+                "code": "AAC.8",
+                "standard": "There is an established laboratory safety programme.",
+                "elements": [
+                    "a. The laboratory safety programme is implemented. *",
+                    "b. This programme is aligned with the organisation's safety programme.",
+                    "c. Laboratory personnel are appropriately trained in safe practices.",
+                    "d. Laboratory personnel are provided with appropriate safety measures."
+                ]
+            },
+            {
+                "code": "AAC.9",
+                "standard": "Imaging services are provided as per the scope of services of the organisation.",
+                "elements": [
+                    "a. Imaging services comply with legal and other requirements.",
+                    "b. Scope of the imaging services is commensurate to the services provided by the organisation.",
+                    "c. The infrastructure (physical and equipment) and human resources are adequate to provide for its defined scope of services.",
+                    "d. Qualified and trained personnel perform, supervise and interpret the investigations.",
+                    "e. Patients are transported in a safe and timely manner to and from the imaging services *",
+                    "f. Imaging results are available within a defined time frame. *",
+                    "g. Critical results are intimated immediately to the personnel concerned. *",
+                    "h. Results are reported in a standardised manner.",
+                    "i. There is a mechanism to address the recall / amendment of reports whenever applicable. *",
+                    "j. Imaging tests not available in the organisation are outsourced to the organisation(s) based on their quality assurance system. *"
+                ]
+            },
+            {
+                "code": "AAC.10",
+                "standard": "There is an established quality assurance programme for imaging services.",
+                "elements": [
+                    "a. The quality assurance programme for imaging services is implemented. *",
+                    "b. Quality assurance programme includes tests for imaging equipment.",
+                    "c. Quality assurance programme includes the review of imaging protocols.",
+                    "d. A system is in place to ensure the appropriateness of the investigations and procedures for the clinical indication.",
+                    "e. The programme addresses periodic internal/external peer review of imaging results using appropriate sampling.",
+                    "f. The programme addresses the clinico-radiological meeting(s).",
+                    "g. The programme includes periodic calibration and maintenance of all equipment. *",
+                    "h. The programme includes the documentation of corrective and preventive actions. *"
+                ]
+            },
+            {
+                "code": "AAC.11",
+                "standard": "There is an established safety programme in imaging services.",
+                "elements": [
+                    "a. The radiation-safety programme is implemented. *",
+                    "b. This programme is aligned with the organisation's safety programme.",
+                    "c. Patients are appropriately screened for safety/risk before imaging.",
+                    "d. Imaging personnel and patients use appropriate radiation safety and monitoring devices where applicable.",
+                    "e. Radiation-safety and monitoring devices are periodically tested, and results are documented. *",
+                    "f. Imaging and ancillary personnel are trained in imaging safety practices and radiation-safety measures.",
+                    "g. Imaging signage is prominently displayed in all appropriate locations."
+                ]
+            },
+            {
+                "code": "AAC.12",
+                "standard": "Patient care is continuous and multidisciplinary.",
+                "elements": [
+                    "a. During all phases of care, there is a qualified individual identified as responsible for the patient's care.",
+                    "b. Patient care is co-ordinated in all care settings within the organisation.",
+                    "c. Information about the patient's care and response to treatment is shared among medical, nursing and other care-providers.",
+                    "d. The Organisation implements standardized hand-over communication during each staffing shift, between shifts and during transfers between units/ departments.",
+                    "e. Patient transfer within the organisation is done in a safe manner.",
+                    "f. Referral of patients to other departments/ specialities follow written guidance.",
+                    "g. The organisation ensures predictable service delivery by adhering to defined timelines and informs the patient/family and/ or caregiver whenever there is a change in schedule.",
+                    "h. The organisation has a mechanism in place to monitor whether adequate clinical intervention has taken place in response to a critical value alert."
+                ]
+            },
+            {
+                "code": "AAC.13",
+                "standard": "The organisation has an established discharge process.",
+                "elements": [
+                    "a. The patient's discharge process is planned in consultation with the patient and/or family.",
+                    "b. The discharge process is coordinated among various departments and agencies involved (including medico-legal and absconded cases). *",
+                    "c. Written guidance governs the discharge of patients leaving against medical advice. *",
+                    "d. A discharge summary is given to all the patients leaving the organisation (including patients leaving against medical advice).",
+                    "e. The organisation adheres to planned discharge.",
+                    "f. The organisation conforms to the defined timeframe for discharge and makes continual improvement."
+                ]
+            },
+            {
+                "code": "AAC.14",
+                "standard": "The organisation defines the content of the discharge summary.",
+                "elements": [
+                    "a. A discharge summary is provided to the patients at the time of discharge.",
+                    "b. Discharge summary contains the patient's name, unique identification number, name of the treating doctor, date of admission and date of discharge.",
+                    "c. Discharge summary contains the reasons for admission, significant findings and diagnosis and the patient's condition at the time of discharge.",
+                    "d. Discharge summary contains information regarding investigation results, any procedure performed, medication administered, and other treatment given.",
+                    "e. Discharge summary contains follow-up advice, medication and other instructions in an understandable manner.",
+                    "f. Discharge summary incorporates instructions about when and how to obtain urgent care.",
+                    "g. In case of death, the summary of the case also includes the cause of death."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chapter 2: Care of Patients (COP)",
+        "intent": "The organisation provides uniform care to all patients in various settings. These settings include care provided in outpatient units, day care facilities, in-patient units including critical care units, procedure rooms, and operation theatres. The standards aim to guide and encourage patient safety as the overarching principle for providing care to patients.",
+        "standards": [
+            {
+                "code": "COP.1",
+                "standard": "Uniform care to patients is provided in all settings of the organisation and is guided by written guidance, and the applicable laws and regulations.",
+                "elements": [
+                    "a. Uniform care is provided following written guidance. *",
+                    "b. The organisation has a uniform process for identification of patients and at a minimum, uses two identifiers.",
+                    "c. Care shall be provided in consonance with applicable laws and regulations.",
+                    "d. The organisation adapts evidence-based clinical practice guidelines and/or clinical protocols.",
+                    "e. Clinical care pathways are developed and reviewed periodically.",
+                    "f. Care delivery is uniform for a given clinical condition when similar care is provided in more than one setting. *",
+                    "g. Multi-disciplinary and multi-speciality care is planned based on best clinical practices.",
+                    "h. Telemedicine facility is provided safely and securely based on written guidance. *"
+                ]
+            },
+            {
+                "code": "COP.2",
+                "standard": "Emergency services are provided in accordance with written guidance, applicable laws and regulations.",
+                "elements": [
+                    "a. An easily accessible identified area is designated to receive and manage emergency patients.",
+                    "b. Prevention of patient over-crowding and crowd management measures are implemented.",
+                    "c. Emergency care is provided in accordance with the written guidance and statutory requirements. *",
+                    "d. Medico-legal cases are managed in accordance with statutory requirements. *",
+                    "e. Initiation of appropriate care is guided by a system of triage. *",
+                    "f. Patients waiting in the emergency are reassessed as appropriate for changes in status.",
+                    "g. Admission, discharge, or transfer to another organisation is documented.",
+                    "h. A discharge/transfer note shall be given to the patient.",
+                    "i. The organisation shall implement a quality assurance programme. *",
+                    "j. Systems are in place for the management of patients dead on arrival or who die shortly after."
+                ]
+            },
+            {
+                "code": "COP.3",
+                "standard": "Ambulance services ensure safe patient transportation with appropriate care.",
+                "elements": [
+                    "a. Access to ambulance services commensurate with the scope of services provided.",
+                    "b. Adequate access and space for the ambulance(s).",
+                    "c. The ambulance(s) is fit for purpose and appropriately equipped.",
+                    "d. The ambulance(s) is operated by trained personnel.",
+                    "e. The ambulance(s) is checked daily.",
+                    "f. Equipment is checked daily using a checklist. *",
+                    "g. Emergency medications are available in the ambulance.",
+                    "h. Proper communication system in the ambulance. *",
+                    "i. Emergency department identifies opportunities to initiate treatment while in transit."
+                ]
+            },
+            {
+                "code": "COP.4",
+                "standard": "The organisation plans and implements mechanisms for the care of patients during community emergencies, epidemics and other disasters.",
+                "elements": [
+                    "a. Potential community emergencies, epidemics and other disasters are identified. *",
+                    "b. Management of disasters as per a documented plan. *",
+                    "c. Medical supplies, equipment and materials are available during emergencies.",
+                    "d. The plan is tested at least twice a year."
+                ]
+            },
+            {
+                "code": "COP.5",
+                "standard": "Cardio-pulmonary resuscitation services are provided uniformly across the organisation.",
+                "elements": [
+                    "a. Resuscitation services are available to patients at all times.",
+                    "b. Assigned roles and responsibilities are complied with during CPR.",
+                    "c. CPR equipment and medications are available in various areas.",
+                    "d. CPR events are recorded.",
+                    "e. Multidisciplinary committee performs post-event analysis.",
+                    "f. Corrective and preventive measures are taken based on analysis."
+                ]
+            },
+            {
+                "code": "COP.6",
+                "standard": "Nursing care is provided to patients in the organisation in consonance with clinical protocols.",
+                "elements": [
+                    "a. Nursing care is provided in accordance with written guidance. *",
+                    "b. Nursing clinical practice guidelines reflecting current standards are implemented. *",
+                    "c. Assignment of patient care as per good clinical/nursing practice guidelines.",
+                    "d. Acuity-based staffing is implemented.",
+                    "e. Nursing care is aligned and integrated with overall patient care.",
+                    "f. Care provided by nurses is documented in the patient record.",
+                    "g. Adequate equipment for providing safe and efficient nursing care is provided.",
+                    "h. Nurses are empowered to make patient care decisions within their scope of practice."
+                ]
+            },
+            {
+                "code": "COP.7",
+                "standard": "Clinical procedures are performed in a safe manner.",
+                "elements": [
+                    "a. Procedures are performed based on the clinical needs of the patient.",
+                    "b. Performance based on written guidance. *",
+                    "c. Qualified personnel order, plan, perform and assist.",
+                    "d. Care is taken to prevent adverse events like wrong patient, procedure or site. *",
+                    "e. Informed consent is taken where applicable.",
+                    "f. Procedure is done adhering to standard precautions.",
+                    "g. Patients are appropriately monitored during and after the procedure.",
+                    "h. Procedures are documented accurately in the patient record."
+                ]
+            },
+            {
+                "code": "COP.8",
+                "standard": "Transfusion services are provided as per the scope of services of the organisation, safely.",
+                "elements": [
+                    "a. Scope of transfusion services is commensurate with the services provided.",
+                    "b. Transfusion of blood and blood components is done safely. *",
+                    "c. Blood and blood components are used rationally. *",
+                    "d. Informed consent is obtained for transfusion.",
+                    "e. Informed consent includes patient and family education about the donation.",
+                    "f. Blood/blood components are available for emergencies within a defined time frame. *",
+                    "g. Post-transfusion reactions are identified and analysed for corrective actions.",
+                    "h. The organisation shall implement a quality assurance programme. *"
+                ]
+            },
+            {
+                "code": "COP.9",
+                "standard": "The organisation provides care in intensive care and high dependency units in a systematic manner.",
+                "elements": [
+                    "a. Care in ICU and HDU is provided based on written guidance. *",
+                    "b. Defined admission and discharge criteria are implemented. *",
+                    "c. Adequate staff and equipment are available.",
+                    "d. Endeavours to upgrade physical infrastructure to meet guidelines.",
+                    "e. Defined procedures for bed shortages are followed. *",
+                    "f. Infection control practices are followed. *",
+                    "g. The organisation shall implement a quality assurance programme. *",
+                    "h. Counsel the patient and/or family periodically."
+                ]
+            },
+            {
+                "code": "COP.10",
+                "standard": "Organisation provides safe obstetric care.",
+                "elements": [
+                    "a. Obstetric services are organised and provided safely. *",
+                    "b. Identifies and provides care to high-risk obstetric cases.",
+                    "c. Personnel caring for high-risk cases are competent.",
+                    "d. Ante-natal services are provided. *",
+                    "e. Obstetric assessment includes maternal nutrition.",
+                    "f. Appropriate peri-natal and post-natal monitoring is performed.",
+                    "g. Facilities for caring for neonates of high-risk cases are available."
+                ]
+            },
+            {
+                "code": "COP.11",
+                "standard": "Organisation provides safe paediatric services.",
+                "elements": [
+                    "a. Paediatric services are organised and provided safely. *",
+                    "b. Neonatal care is in consonance with national/international guidelines. *",
+                    "c. Personnel have age-specific competency.",
+                    "d. Provisions are made for special care of children.",
+                    "e. Paediatric assessment includes growth, developmental, and immunisation assessment.",
+                    "f. Measures in place to prevent child/neonate abduction and abuse. *",
+                    "g. Family education about nutrition, immunisation and safe parenting."
+                ]
+            },
+            {
+                "code": "COP.12",
+                "standard": "Procedural sedation is provided in a consistent and safe manner.",
+                "elements": [
+                    "a. Procedural sedation is administered in a consistent manner. *",
+                    "b. Informed consent for sedation is obtained.",
+                    "c. Competent and trained persons administer sedation.",
+                    "d. Monitor is different from the person performing the procedure.",
+                    "e. Intra-procedure monitoring includes heart rate, rhythm, respiration, BP, SpO2, and sedation level.",
+                    "f. Patients monitored after sedation and documented.",
+                    "g. Criteria used to determine appropriateness of discharge from recovery area. *",
+                    "h. Equipment and workforce are available to manage deeper sedation levels than intended."
+                ]
+            },
+            {
+                "code": "COP.13",
+                "standard": "Anaesthesia services are provided in a consistent and safe manner.",
+                "elements": [
+                    "a. Anaesthesia services are provided in a consistent manner. *",
+                    "b. Pre-anaesthesia assessment results in a documented plan.",
+                    "c. Pre-induction assessment is performed and documented.",
+                    "d. Anaesthesiologist obtains informed consent.",
+                    "e. Intra-anaesthesia monitoring of vital signs and ETCO2.",
+                    "f. Post-anaesthesia status is monitored and documented.",
+                    "g. Defined criteria for transfer from the recovery area. *",
+                    "h. Anaesthesia type and medications are documented in the patient record.",
+                    "i. Procedures comply with infection control guidelines.",
+                    "j. Intraoperative adverse events are recorded and monitored."
+                ]
+            },
+            {
+                "code": "COP.14",
+                "standard": "Surgical services are provided in a consistent and safe manner.",
+                "elements": [
+                    "a. Surgical services are provided in a consistent and safe manner. *",
+                    "b. Preoperative assessment, diagnosis, and instructions are provided.",
+                    "c. Informed consent is obtained by the surgeon.",
+                    "d. Prevention of adverse events like wrong site, patient, or surgery. *",
+                    "e. Operative note documented before transfer from recovery.",
+                    "f. Postoperative care guided by a documented plan.",
+                    "g. Flow of patient, personnel, and material follows infection control practices.",
+                    "h. Appropriate facilities, equipment, instruments, and supplies are available.",
+                    "i. The organisation shall implement a quality assurance programme. *",
+                    "j. QA programme includes OT environmental surveillance. *"
+                ]
+            },
+            {
+                "code": "COP.15",
+                "standard": "The organ transplant programme is carried out safely.",
+                "elements": [
+                    "a. Programme is in consonance with legal and ethical requirements.",
+                    "b. Care of transplant patients guided by clinical practice guidelines. *",
+                    "c. Education and counselling of recipient and donor through qualified counsellors.",
+                    "d. Measures taken to create awareness regarding organ donation."
+                ]
+            },
+            {
+                "code": "COP.16",
+                "standard": "The organisation identifies and manages patients who are at higher risk of morbidity/mortality.",
+                "elements": [
+                    "a. Vulnerable patients are identified and managed. *",
+                    "b. Safe and secure environment for vulnerable patients.",
+                    "c. Patients at risk of fall are identified and managed. *",
+                    "d. Patients at risk of pressure ulcers are identified and managed. *",
+                    "e. Patients at risk of DVT are identified and managed. *",
+                    "f. Patients who need restraints are identified and managed. *"
+                ]
+            },
+            {
+                "code": "COP.17",
+                "standard": "Pain management for patients is done in a consistent manner.",
+                "elements": [
+                    "a. Patients in pain are effectively managed. *",
+                    "b. Patients are screened for pain.",
+                    "c. Detailed assessment and periodic reassessment for pain.",
+                    "d. Pain alleviation measures initiated and titrated according to needs."
+                ]
+            },
+            {
+                "code": "COP.18",
+                "standard": "Rehabilitation services are provided to the patients in a safe, collaborative and consistent manner.",
+                "elements": [
+                    "a. Scope of rehabilitation commensurate with services provided.",
+                    "b. Consistent provision of rehabilitation services.",
+                    "c. Collaborative planning of rehabilitation services.",
+                    "d. Adequate space and equipment are provided.",
+                    "e. Care guided by functional and periodic re-assessments.",
+                    "f. Adherence to infection control and safety practices.",
+                    "g. Care pathways are developed, implemented, and reviewed. *"
+                ]
+            },
+            {
+                "code": "COP.19",
+                "standard": "Nutritional therapy is provided to patients consistently and collaboratively.",
+                "elements": [
+                    "a. Admitted patients are screened for nutritional risk. *",
+                    "b. Nutritional assessment for patients found at risk.",
+                    "c. Therapeutic diet is planned and provided collaboratively.",
+                    "d. Food received according to written diet order.",
+                    "e. Family educated about diet limitations if they provide food."
+                ]
+            },
+            {
+                "code": "COP.20",
+                "standard": "End-of-life care is provided in a compassionate and considerate manner.",
+                "elements": [
+                    "a. Consistent provision of end-of-life care. *",
+                    "b. Multi-professional approach is used.",
+                    "c. Consonance with legal requirements.",
+                    "d. Addressing unique needs of the patient and family.",
+                    "e. Symptomatic treatment and pain alleviation are provided."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chapter 3: Management of Medication (MOM)",
+        "intent": "The organisation has a safe and organised medication process. The availability, safe storage, prescription, dispensing and administration of medications is governed by written guidance. The pharmacy should have oversight of all medications stocked out of the pharmacy. The pharmacy should ensure correct storage (as regards to temperature, light; high-risk medications including look-alike, sound-alike, etc.), expiry dates and maintenance of documentation. The availability of emergency medication is stressed upon. Safety is paramount when using narcotics, chemotherapeutic agents and radioactive agents.",
+        "standards": [
+            {
+                "code": "MOM.1",
+                "standard": "Pharmacy services and usage of medication is done safely.",
+                "elements": [
+                    "a. Pharmacy services and medication usage are implemented following written guidance. *",
+                    "b. A multidisciplinary committee guides the formulation and implementation of pharmacy services and medication usage.",
+                    "c. There is a mechanism in place to facilitate the multidisciplinary committee to monitor literature reviews and best practice information on medication management.",
+                    "d. There is a procedure to obtain medication when the pharmacy is closed. *",
+                    "e. The organisation has a mechanism to inform relevant staff of key changes in pharmacy services and medication usage."
+                ]
+            },
+            {
+                "code": "MOM.2",
+                "standard": "The organisation develops, updates and implements a hospital formulary.",
+                "elements": [
+                    "a. A list of medications appropriate for the patients is developed collaboratively by the multidisciplinary committee. (CORE)",
+                    "b. The list is reviewed and updated collaboratively by the multidisciplinary committee at least annually.",
+                    "c. The current formulary is available for clinicians to refer to.",
+                    "d. The clinicians adhere to the current formulary.",
+                    "e. The organisation adheres to the procedure for the acquisition of formulary medications. *",
+                    "f. The organisation adheres to the procedure to obtain medications not listed in the formulary. * (CORE)"
+                ]
+            },
+            {
+                "code": "MOM.3",
+                "standard": "Medications are stored appropriately and are available where required.",
+                "elements": [
+                    "a. Medications are stored in a clean, safe and secure environment; and incorporating the manufacturer's recommendation(s).",
+                    "b. Sound inventory control practices guide storage of the medications throughout the organisation.",
+                    "c. The organisation defines a list of high-risk medication(s). *",
+                    "d. High-risk medications are stored in areas of the organisation where it is clinically necessary.",
+                    "e. High-risk medications including look-alike, sound-alike medications and different concentrations are stored physically apart. *",
+                    "f. The list of emergency medications is defined and is stored uniformly. *",
+                    "g. Emergency medications are available all the time and are replenished promptly when used."
+                ]
+            },
+            {
+                "code": "MOM.4",
+                "standard": "Medications are prescribed safely and rationally.",
+                "elements": [
+                    "a. Medication prescription is in consonance with good practices/guidelines for the rational prescription of medications. *",
+                    "b. The organisation adheres to the determined minimum requirements of a prescription. *",
+                    "c. Drug allergies and previous adverse drug reactions are ascertained before prescribing.",
+                    "d. The organisation has a mechanism to assist the clinician in prescribing appropriate medication.",
+                    "e. Implementation of verbal orders ensures safe medication management practices. *",
+                    "f. Audit of medication orders/prescription is carried out to check for safe and rational prescription of medications.",
+                    "g. Corrective and/or preventive action(s) is taken based on the audit, where appropriate.",
+                    "h. Reconciliation of medications occurs at transition points of patient care."
+                ]
+            },
+            {
+                "code": "MOM.5",
+                "standard": "Medication orders are written in a uniform manner.",
+                "elements": [
+                    "a. The organisation ensures that only authorised personnel write orders. *",
+                    "b. Medication orders are written in a uniform location in the medical records.",
+                    "c. Medication orders are legible, dated, timed and signed.",
+                    "d. Medication orders contain the name, route, strength, and frequency/time of administration."
+                ]
+            },
+            {
+                "code": "MOM.6",
+                "standard": "Medications are dispensed in a safe manner.",
+                "elements": [
+                    "a. Dispensing of medications is done safely. *",
+                    "b. Medication recalls are handled effectively. *",
+                    "c. Near-expiry medications are handled effectively. *",
+                    "d. Dispensed medications are labelled. *",
+                    "e. High-risk medication orders are verified before dispensing.",
+                    "f. Return of medications to the pharmacy is addressed. *"
+                ]
+            },
+            {
+                "code": "MOM.7",
+                "standard": "Medications are administered safely.",
+                "elements": [
+                    "a. Medications are administered by those who are permitted by law to do so.",
+                    "b. Prepared medication is labelled before preparation of a second drug.",
+                    "c. The patient is identified before administration.",
+                    "d. Medication is verified from the medication order and physically inspected before administration.",
+                    "e. Strength is verified from the order before administration.",
+                    "f. The route is verified from the order before administration.",
+                    "g. Timing is verified from the order before administration.",
+                    "h. Measures to avoid catheter and tubing mis-connections are implemented. *",
+                    "i. Medication administration is documented.",
+                    "j. Measures to govern patient's self-administration are implemented. *",
+                    "k. Measures to govern medications brought from outside are implemented. *"
+                ]
+            },
+            {
+                "code": "MOM.8",
+                "standard": "Patients are monitored after medication administration.",
+                "elements": [
+                    "a. Patients are monitored after medication administration. *",
+                    "b. Medications are changed where appropriate based on the monitoring.",
+                    "c. The organisation captures near miss, medication error and adverse drug reaction. *",
+                    "d. Near miss, medication error and adverse drug reaction are reported within a specified time frame. *",
+                    "e. Near miss, medication error and adverse drug reaction are collected and analysed.",
+                    "f. Corrective and/or preventive action(s) are taken based on the analysis."
+                ]
+            },
+            {
+                "code": "MOM.9",
+                "standard": "Narcotic drugs and psychotropic substances, chemotherapeutic agents and radioactive agents are used safely.",
+                "elements": [
+                    "a. Narcotic drugs, psychotropic substances, chemotherapeutic agents and radioactive agents are used safely. *",
+                    "b. These agents are prescribed by appropriate caregivers.",
+                    "c. These drugs are stored securely.",
+                    "d. Chemotherapy and radioactive agents are prepared properly and safely and administered by qualified personnel.",
+                    "e. A proper record is kept of the usage, administration and disposal."
+                ]
+            },
+            {
+                "code": "MOM.10",
+                "standard": "Implantable prosthesis and medical devices are used in accordance with laid down criteria.",
+                "elements": [
+                    "a. Usage is guided by scientific criteria and national/international recognised guidelines.",
+                    "b. The organisation implements a mechanism for the usage of the implantable prosthesis and medical devices. *",
+                    "c. Patient and his/her family are counselled for the usage and precautions.",
+                    "d. Batch and serial numbers are recorded in medical records, master logbook and discharge summary.",
+                    "e. Recall of implantable prosthesis and medical devices are handled effectively. *"
+                ]
+            },
+            {
+                "code": "MOM.11",
+                "standard": "Medical supplies and consumables are stored appropriately and are available where required.",
+                "elements": [
+                    "a. The organisation adheres to the defined process for the acquisition of medical supplies and consumables. *",
+                    "b. Medical supplies and consumables are used in a safe manner, where appropriate.",
+                    "c. Storage in a clean, safe and secure environment; incorporating manufacturer's recommendation(s).",
+                    "d. Sound inventory control practices guide storage of medical supplies and consumables.",
+                    "e. There is a mechanism in place to verify the condition of medical supplies and consumables."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chapter 4: Patient Rights and Education (PRE)",
+        "intent": "The organisation defines, protects and promotes the patient and family's rights and responsibilities. The staff is aware of these rights and is trained to protect them. Patients are informed of their rights and educated about their responsibilities at the time of entering the organisation. Expected costs of treatment and care are explained clearly. Informed consent is obtained via informed decision-making process. The organisation develops effective patient-centred communication.",
+        "standards": [
+            {
+                "code": "PRE.1",
+                "standard": "The organisation protects and promotes patient and family rights and informs them about their responsibilities during care.",
+                "elements": [
+                    "a. Patient and family rights and responsibilities are documented, displayed and they are made aware of the same. *",
+                    "b. Patient and family rights and responsibilities are actively promoted. *",
+                    "c. The organisation protects patient and family rights.",
+                    "d. The organisation has a mechanism to report a violation of patient and family rights.",
+                    "e. Violation of patient and family rights are monitored, analysed, and corrective/preventive action taken."
+                ]
+            },
+            {
+                "code": "PRE.2",
+                "standard": "Patient and family rights support individual beliefs, values and involve the patient and family in decision-making processes.",
+                "elements": [
+                    "a. Rights include respecting values and beliefs, special preferences, and cultural/spiritual needs.",
+                    "b. Rights include respect for personal dignity and privacy during examination and treatment.",
+                    "c. Rights include protection from neglect or abuse.",
+                    "d. Rights include treating patient information as confidential.",
+                    "e. Rights include the refusal of treatment.",
+                    "f. Rights include a right to seek an additional opinion regarding clinical care.",
+                    "g. Rights include informed consent before blood transfusion, anaesthesia, surgery, and high-risk procedures.",
+                    "h. Rights include a right to complain and information on how to voice a complaint.",
+                    "i. Rights include information on the expected cost of the treatment.",
+                    "j. Rights include access to their clinical records.",
+                    "k. Rights include information on treating doctor, care plan, progress and health care needs.",
+                    "l. Patient rights include determining what information regarding their care would be provided to self and family."
+                ]
+            },
+            {
+                "code": "PRE.3",
+                "standard": "The patient and/or family members are educated to make informed decisions and are involved in the care planning and delivery process.",
+                "elements": [
+                    "a. Explained about proposed care, including risks, alternatives and benefits.",
+                    "b. Explained about the expected results.",
+                    "c. Explained about the possible complications.",
+                    "d. Care plan is prepared and modified in consultation with the patient/family.",
+                    "e. Informed about results of diagnostic tests and the diagnosis.",
+                    "f. Explained about any change in condition in a timely manner.",
+                    "g. Provided multi-disciplinary counselling when appropriate."
+                ]
+            },
+            {
+                "code": "PRE.4",
+                "standard": "Informed consent is obtained from the patient or family about their care.",
+                "elements": [
+                    "a. Organisation obtains informed consent for situations where it is required. *",
+                    "b. Informed consent process adheres to statutory norms.",
+                    "c. Informed consent includes procedure details, risks, benefits, alternatives and performing person.",
+                    "d. Organisation describes who can give consent when patient is incapable of independent decision making. *",
+                    "e. Informed consent is taken by the person performing the procedure."
+                ]
+            },
+            {
+                "code": "PRE.5",
+                "standard": "Patient and families have a right to information and education about their healthcare needs.",
+                "elements": [
+                    "a. Educated in a language and format that they can understand.",
+                    "b. Educated about safe use of medication, potential side effects, and food-drug interaction. when appropriate.",
+                    "c. Educated about diet and nutrition.",
+                    "d. Educated about immunisations.",
+                    "e. Educated on various pain management techniques, when appropriate.",
+                    "f. Educated about their specific disease process, complications and prevention strategies.",
+                    "g. Educated about preventing healthcare associated infections.",
+                    "h. Special educational needs are identified and addressed."
+                ]
+            },
+            {
+                "code": "PRE.6",
+                "standard": "Patients and families have a right to information on expected costs.",
+                "elements": [
+                    "a. Made aware of pricing policy in different settings (OPD, Emergency, ICU, IPD).",
+                    "b. Relevant tariff list is available to patients.",
+                    "c. Explained about the expected costs.",
+                    "d. Informed about financial implications when there is a change in the care plan."
+                ]
+            },
+            {
+                "code": "PRE.7",
+                "standard": "The organisation has a mechanism to capture patient's feedback and to redress complaints.",
+                "elements": [
+                    "a. Mechanism to capture feedback, including patient satisfaction and experience.",
+                    "b. Redress patient complaints as per the defined mechanism. *",
+                    "c. Patient and/or family members are made aware of the procedure for feedback and complaints.",
+                    "d. Feedback and complaints are reviewed and analysed within a defined time frame.",
+                    "e. Corrective and/or preventive action(s) are taken based on the analysis."
+                ]
+            },
+            {
+                "code": "PRE.8",
+                "standard": "The organisation has a system for effective communication with patients and/or families.",
+                "elements": [
+                    "a. Communication with patients and/or families is done effectively. *",
+                    "b. Identification of special situations where enhanced communication is required. *",
+                    "c. Enhanced communication is done effectively. *",
+                    "d. Organisation ensures that there is no unacceptable communication.",
+                    "e. System to monitor and review the implementation of effective communication."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chapter 5: Hospital Infection Control (HIC)",
+        "intent": "The organisation has a comprehensive Hospital Infection Prevention and Control (HIC) programme aimed at reducing/eliminating risks to patients, visitors, and providers. The programme identifies high-risk activities and has written guidance. It includes sterilization, disinfection, and surveillance of infection risks. The organisation also takes actions to prevent healthcare-associated infections (HAI) in both patients and staff.",
+        "standards": [
+            {
+                "code": "HIC.1",
+                "standard": "The organisation has a comprehensive and coordinated Hospital Infection Prevention and Control (HIC) programme.",
+                "elements": [
+                    "a. Programme is documented and aims at preventing and reducing HAI risk. *",
+                    "b. Identifies high-risk activities and has written guidance. *",
+                    "c. Programme is reviewed and updated at least once a year.",
+                    "d. Reviewed based on infection control assessment tool.",
+                    "e. Multi-disciplinary infection control committee coordinates all activities. *",
+                    "f. Infection control team implements activities. *",
+                    "g. Designated infection control officer and nurse(s). *",
+                    "h. Implements IEC programme for community.",
+                    "i. Participates in managing community outbreaks."
+                ]
+            },
+            {
+                "code": "HIC.2",
+                "standard": "The organisation provides adequate and appropriate resources for infection prevention and control.",
+                "elements": [
+                    "a. Management makes available resources required for the programme.",
+                    "b. Organisation earmarks adequate funds from its annual budget.",
+                    "c. Adequate PPE, soaps, and disinfectants are available and used correctly.",
+                    "d. Adequate and appropriate facilities for hand hygiene in all patient-care areas.",
+                    "e. Isolation/barrier nursing facilities are available."
+                ]
+            },
+            {
+                "code": "HIC.3",
+                "standard": "The organisation implements the infection prevention and control programme in clinical areas.",
+                "elements": [
+                    "a. Adheres to standard precautions at all times. *",
+                    "b. Adheres to hand-hygiene guidelines. *",
+                    "c. Adheres to transmission-based precautions. *",
+                    "d. Adheres to safe injection and infusion practices. *",
+                    "e. Appropriate antimicrobial usage policy is established and documented. *",
+                    "f. Implements the policy and monitors rational use of antimicrobial agents.",
+                    "g. Implements an antibiotic stewardship programme. *"
+                ]
+            },
+            {
+                "code": "HIC.4",
+                "standard": "The organisation implements the infection prevention and control programme in support services.",
+                "elements": [
+                    "a. Appropriate engineering controls to prevent infections. *",
+                    "b. Designs and implements a plan to reduce infection risk during construction/renovation. *",
+                    "c. Adheres to housekeeping procedures. *",
+                    "d. Biomedical waste (BMW) is handled appropriately and safely.",
+                    "e. Adheres to laundry and linen management processes. *",
+                    "f. Adheres to kitchen sanitation and food-handling issues. *"
+                ]
+            },
+            {
+                "code": "HIC.5",
+                "standard": "The organisation takes actions to prevent healthcare associated Infections (HAI) in patients.",
+                "elements": [
+                    "a. Prevents catheter-associated urinary tract infections.",
+                    "b. Prevents ventilator associated complication/pneumonia.",
+                    "c. Prevents catheter linked blood stream infections.",
+                    "d. Prevents surgical site infections."
+                ]
+            },
+            {
+                "code": "HIC.6",
+                "standard": "The organisation performs surveillance to capture and monitor infection prevention and control data.",
+                "elements": [
+                    "a. Scope incorporates tracking and analysing of infection risks, rates and trends.",
+                    "b. Verification of data is done regularly by the infection control team.",
+                    "c. Surveillance is directed towards the identified high-risk activities.",
+                    "d. Monitoring compliance with hand-hygiene guidelines.",
+                    "e. Capture of multi-drug resistant organisms and highly virulent infections.",
+                    "f. Monitoring the effectiveness of housekeeping services.",
+                    "g. Feedback provided regularly to healthcare providers.",
+                    "h. Identifies and takes appropriate action to control outbreaks.",
+                    "i. Data is analysed, and appropriate corrective and preventive actions are taken."
+                ]
+            },
+            {
+                "code": "HIC.7",
+                "standard": "Infection prevention measures include sterilisation and/or disinfection of instruments, equipment and devices.",
+                "elements": [
+                    "a. Provides adequate space and appropriate zoning for sterilisation activities.",
+                    "b. Cleaning, packing, disinfection, sterilisation, and issue done as per written guidance. *",
+                    "c. Reprocessing of single-use items done as per written guidance. *",
+                    "d. Regular validation tests for sterilisation are carried out and documented. *",
+                    "e. Established recall procedure is implemented when a breakdown is identified. *"
+                ]
+            },
+            {
+                "code": "HIC.8",
+                "standard": "The organisation takes action to prevent or reduce healthcare associated infections in its staff.",
+                "elements": [
+                    "a. Implements occupational health and safety practices.",
+                    "b. Implements an immunisation policy for its staff. *",
+                    "c. Implements work restrictions for providers with transmissible infections.",
+                    "d. Implements measures for blood and body fluid exposure prevention.",
+                    "e. Appropriate post-exposure prophylaxis is provided."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chapter 6: Patient Safety and Quality Improvement (PSQ)",
+        "intent": "The standards encourage an environment of patient safety and continual quality improvement. The patient safety and quality programme involve all areas of the organisation and all staff members. National/international patient-safety goals/solutions are implemented. The organisation collects data on structures, processes and outcomes, especially in high-risk situations. Clinical audits and quality tools are used for improvements.",
+        "standards": [
+            {
+                "code": "PSQ.1",
+                "standard": "The organisation implements a structured patient-safety programme.",
+                "elements": [
+                    "a. Developed and maintained by a multi-disciplinary safety committee. *",
+                    "b. Comprehensive and covers all major elements of patient safety.",
+                    "c. Covers incidents ranging from 'no harm' to 'sentinel events'.",
+                    "d. Designated patient safety officer(s).",
+                    "e. Designated clinical safety officer(s).",
+                    "f. Identifies opportunities for improvement based on periodic review.",
+                    "g. Proactive analysis of patient safety risks.",
+                    "h. Programme is reviewed and updated at least once a year.",
+                    "i. Implements national/international patient-safety goals/solutions."
+                ]
+            },
+            {
+                "code": "PSQ.2",
+                "standard": "The organisation implements a structured quality improvement and continuous monitoring programme.",
+                "elements": [
+                    "a. Developed and maintained by a multi-disciplinary committee. *",
+                    "b. Comprehensive and covers all major elements related to quality assurance. *",
+                    "c. Improves process efficiency and effectiveness.",
+                    "d. Designated individual for coordination. *",
+                    "e. Identifies opportunities for improvement based on periodic review. *",
+                    "f. Programme is reviewed and updated at least once a year.",
+                    "g. Audits are conducted at regular intervals as means of continuous monitoring. *",
+                    "h. Established process to monitor and improve nursing care quality. *"
+                ]
+            },
+            {
+                "code": "PSQ.3",
+                "standard": "The organisation identifies key indicators to monitor structures, processes and outcomes.",
+                "elements": [
+                    "a. Oversee clinical structures, processes and outcomes.",
+                    "b. Oversee infection control activities.",
+                    "c. Oversee managerial structures, processes and outcomes.",
+                    "d. Oversee patient safety activities.",
+                    "e. Capture patient reported outcome measures.",
+                    "f. Verification of data is done regularly by the quality team.",
+                    "g. Analysis of data results in identifying opportunities for improvement.",
+                    "h. Improvements are implemented and evaluated.",
+                    "i. Feedback about care and service is communicated to staff."
+                ]
+            },
+            {
+                "code": "PSQ.4",
+                "standard": "The organisation uses appropriate quality improvement tools for its activities.",
+                "elements": [
+                    "a. Undertakes quality improvement projects.",
+                    "b. Uses appropriate analytical tools.",
+                    "c. Uses appropriate statistical tools.",
+                    "d. Uses appropriate managerial tools."
+                ]
+            },
+            {
+                "code": "PSQ.5",
+                "standard": "There is an established system for clinical audit.",
+                "elements": [
+                    "a. Clinical audits are performed to improve quality of patient care.",
+                    "b. Parameters to be audited are defined.",
+                    "c. Medical and nursing staff participate.",
+                    "d. Patient and staff anonymity are maintained.",
+                    "e. Clinical audits are documented.",
+                    "f. Remedial measures are implemented."
+                ]
+            },
+            {
+                "code": "PSQ.6",
+                "standard": "The patient safety and quality improvement programme are supported by the management.",
+                "elements": [
+                    "a. Management creates a culture of safety.",
+                    "b. Leaders at all levels are aware of the intent and approach.",
+                    "c. Departmental leaders are involved in patient safety and quality.",
+                    "d. Management makes available adequate resources. ",
+                    "e. Organisation earmarks adequate funds from annual budget.",
+                    "f. Management identifies organisational performance improvement targets.",
+                    "g. Management uses workforce feedback to improve the programme."
+                ]
+            },
+            {
+                "code": "PSQ.7",
+                "standard": "Incidents are collected and analysed to ensure continual quality improvement.",
+                "elements": [
+                    "a. Implements an incident management system. *",
+                    "b. Mechanism to identify sentinel events. *",
+                    "c. Incidents are collected and analysed.",
+                    "d. Stakeholders are informed in case of near miss/adverse/sentinel event.",
+                    "e. Risks identified in analysis are incorporated into risk management system."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chapter 7: Responsibilities of Management (ROM)",
+        "intent": "The management of the healthcare organisation is aware of and manages all the key components of governance. Those responsible for governance are identified and their roles defined. The standards encourage the governance of the organisation professionally and ethically. The responsibilities of management are defined. The responsibilities of the leaders at all levels are defined. The management executes its responsibility for compliance with all applicable regulations. Leaders ensure that patient-safety and risk-management issues are an integral part of patient care and hospital management.",
+        "standards": [
+            {
+                "code": "ROM.1",
+                "standard": "The organisation identifies those responsible for governance and their roles are defined.",
+                "elements": [
+                    "a. Those responsible for governance are identified, and their roles and responsibilities are defined and documented. *",
+                    "b. Those responsible for governance lay down the organisation's vision, mission and values.*",
+                    "c. Those responsible for governance approve the strategic and operational plans and the organisation's annual budget.",
+                    "d. Those responsible for governance monitor and measure the performance of the organisation against the stated mission.",
+                    "e. Those responsible for governance appoint the senior leaders in the organisation.",
+                    "f. Those responsible for governance support safety initiatives and quality improvement plans.",
+                    "g. Those responsible for governance support the ethical management framework of the organisation.",
+                    "h. Those responsible for governance inform the public of the quality and performance of services."
+                ]
+            },
+            {
+                "code": "ROM.2",
+                "standard": "The leaders manage the organisation in an ethical manner.",
+                "elements": [
+                    "a. The leaders make public the vision, mission and values of the organisation.",
+                    "b. The leaders establish the organisation's ethical management framework. *",
+                    "c. The ethical management framework includes processes for managing issues with ethical implications, dilemmas and concerns.",
+                    "d. The organisation discloses its ownership.",
+                    "e. The organisation honestly portrays its affiliations and accreditations."
+                ]
+            },
+            {
+                "code": "ROM.3",
+                "standard": "The organisation is headed by a leader who shall be responsible for operating the organisation on a day-to-day basis.",
+                "elements": [
+                    "a. The person heading the organisation has requisite and appropriate administrative qualifications.",
+                    "b. The person heading the organisation has requisite and appropriate administrative experience.",
+                    "c. The leader is responsible for and complies with the laid-down and applicable legislations, regulations and notifications.",
+                    "d. The leader appoints/participates in the recruitment of senior leadership of the organisation who will assist in the day-to-day functioning of the organisation.",
+                    "e. The leader ensures that each organisational programme, service, site or department has effective leadership.",
+                    "f. The performance of the organisation's leader is reviewed for effectiveness."
+                ]
+            },
+            {
+                "code": "ROM.4",
+                "standard": "The organisation displays professionalism in its functioning.",
+                "elements": [
+                    "a. The organisation has strategic and operational plans, including long-term and short-term goals commensurate to the organisation's vision, mission and values in consultation with the various stakeholders.",
+                    "b. The organisation coordinates the functioning with departments and external agencies and monitors the progress in achieving the defined goals and objectives.",
+                    "c. The organisation plans and budgets for its activities annually.",
+                    "d. The functioning of committees is reviewed for their effectiveness.",
+                    "e. The organisation documents staff rights and responsibilities. *",
+                    "f. The organisation documents the service standards that are measurable and monitors them.*",
+                    "g. Systems and processes are in place for change management."
+                ]
+            },
+            {
+                "code": "ROM.5",
+                "standard": "Management ensures that patient-safety aspects and risk-management issues are an integral part of patient care and hospital management.",
+                "elements": [
+                    "a. Management ensures proactive risk management across the organisation.*",
+                    "b. Management provides resources for proactive risk assessment and risk reduction activities.",
+                    "c. Management ensures integration between quality improvement, risk management and strategic planning within the organisation.",
+                    "d. Management ensures implementation of systems for internal and external reporting of system and process failures.*",
+                    "e. Management ensures that it has a documented agreement for all outsourced services that include service parameters.",
+                    "f. Management monitors the quality of the outsourced services and improvements are made as required."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chapter 8: Facility Management and Safety (FMS)",
+        "intent": "The standards guide the provision of a safe and secure environment for patients, their families, staff and visitors. The organisation attends to the facility, equipment, and internal physical environment for improving patient safety and quality of services by consistently addressing issues that may arise out of the same. The organisation does this through proactive risk analysis, safety rounds, training of staff on the enhancement of safety and management of disasters. The organisation provides for safe water, electricity, medical gases and vacuum systems. The organisation has a programme for medical and utility equipment management. The organisation plans for fire and non-fire emergencies within the facilities. The organisation is a no-smoking area. The organisation safely manages hazardous materials. The organisation works towards measures on being energy efficient.",
+        "standards": [
+            {
+                "code": "FMS.1",
+                "standard": "The organisation has a system in place to provide a safe and secure environment.",
+                "elements": [
+                    "a. Patient-safety devices and infrastructure are installed across the organisation and inspected periodically.",
+                    "b. The organisation has facilities for the differently-abled.",
+                    "c. Facility inspection rounds to ensure safety are conducted at least once a month.",
+                    "d. Inspection reports of facility rounds are documented, and corrective and preventive measures are undertaken.",
+                    "e. Before construction, renovation and expansion of existing hospital, risk assessment are carried out."
+                ]
+            },
+            {
+                "code": "FMS.2",
+                "standard": "The organisation's environment and facilities operate in a planned manner and promotes environment-friendly measures.",
+                "elements": [
+                    "a. Facilities and space provisions are appropriate to the scope of services.",
+                    "b. As-built and updated drawings are maintained as per statutory requirements.",
+                    "c. There are internal and external sign postings in the organisation in a manner understood by the patient, families and community.",
+                    "d. Potable water and electricity are available round the clock.",
+                    "e. Alternate sources for electricity and water are provided as a backup for any failure/shortage.",
+                    "f. The organisation tests the functioning of these alternate sources at a predefined frequency.",
+                    "g. The organisation takes initiatives towards an energy-efficient and environmentally friendly hospital.*"
+                ]
+            },
+            {
+                "code": "FMS.3",
+                "standard": "The organisation's environment and facilities operate to ensure the safety of patients, their families, staff and visitors.",
+                "elements": [
+                    "a. Patient safety aspects in terms of structural safety of hospitals especially of critical areas are considered while planning, design and construction of new hospitals and re-planning, assessment, and retrofitting of existing hospitals.",
+                    "b. Operational planning identifies areas which need to have extra security and describes access to different areas in the hospital by staff, patients, and visitors.",
+                    "c. The organisation conducts electrical safety audits for the facility.",
+                    "d. There is a procedure which addresses the identification and disposal of material(s) not in use in the organisation. *",
+                    "e. Hazardous materials are identified and used safely within the organisation.*",
+                    "f. The plan for managing spills of hazardous materials is implemented. *"
+                ]
+            },
+            {
+                "code": "FMS.4",
+                "standard": "The organisation has a programme for the facility, engineering support services and utility system.",
+                "elements": [
+                    "a. The organisation plans for utility and engineering equipment in accordance with its services and strategic plan.",
+                    "b. Equipment is inventoried, and proper logs are maintained as required.",
+                    "c. The documented operational and maintenance (preventive and breakdown) plan is implemented. *",
+                    "d. Utility equipment, are periodically inspected and calibrated (wherever applicable) for their proper functioning.",
+                    "e. Competent personnel operate, inspect, test and maintain equipment and utility systems.",
+                    "f. Maintenance staff is contactable round the clock for emergency repairs.",
+                    "g. Downtime for critical equipment breakdowns is monitored from reporting to inspection and implementation of corrective actions.",
+                    "h. Written guidance supports equipment replacement, identification of unwanted material and disposal. *"
+                ]
+            },
+            {
+                "code": "FMS.5",
+                "standard": "The organisation has a programme for medical equipment management.",
+                "elements": [
+                    "a. The organisation plans for medical equipment in accordance with its services and strategic plan.",
+                    "b. Medical equipment is inventoried, and proper logs are maintained as required.",
+                    "c. The documented operational and maintenance (preventive and breakdown) plan for medical equipment is implemented. *",
+                    "d. Medical equipment is periodically inspected and calibrated for their proper functioning.",
+                    "e. Qualified and trained personnel operate and maintain medical equipment.",
+                    "f. Written guidance supports medical equipment replacement and disposal. *",
+                    "g. There is a monitoring of medical equipment and medical devices related to adverse events, and compliance hazard notices on recalls. *",
+                    "h. Downtime for critical equipment breakdown is monitored from reporting to inspection and implementation of corrective actions."
+                ]
+            },
+            {
+                "code": "FMS.6",
+                "standard": "The organisation has a programme for medical gases, vacuum and compressed air.",
+                "elements": [
+                    "a. Written guidance governs the implementation of procurement, handling, storage, distribution, usage and replenishment of medical gases. *",
+                    "b. Medical gases are handled, stored, distributed and used in a safe manner.",
+                    "c. The procedures for medical gases address the safety issues at all levels.",
+                    "d. Alternate sources for medical gases, vacuum and compressed air are provided for, in case of failure.",
+                    "e. The organisation regularly tests the functioning of these alternate sources.",
+                    "f. There is an operational, inspection, testing and maintenance plan for piped medical gas, compressed air and vacuum installation. *"
+                ]
+            },
+            {
+                "code": "FMS.7",
+                "standard": "The organisation has plans for fire and non-fire emergencies within the facilities.",
+                "elements": [
+                    "a. The organisation has plans and provisions for early detection, abatement and containment of the fire, and non-fire emergencies. *",
+                    "b. The organisation has a documented and displayed exit plan in case of fire and non-fire emergencies.",
+                    "c. Mock drills are held at least twice a year.",
+                    "d. There is a maintenance plan for fire-related equipment and infrastructure *",
+                    "e. The organisation has a service continuity plan in case of fire and non-fire emergencies."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chapter 9: Human Resource Management (HRM)",
+        "intent": "The most important resource of the organisation is its human resource. Human resources are an asset for the effective and efficient functioning of the organisation. The management plans on identifying the right number and skill mix of staff required to render safe care to the patients. Recruitment of staff is accomplished by having a uniform and standardised system. The organisation must orient the staff to its environment and also orient them to specific duties and responsibilities related to their position. The organisation should plan to have an ongoing professional training/in-service education to enhance the competencies and skills of the staff continually. A systematic and structured appraisal system must be used for staff development. The organisation promotes the physical and mental well-being of staff. A grievance handling mechanism and disciplinary procedure should be in place. Credentialing and privileging of health-care professionals are done to ensure patient safety. A document containing all such personal information has to be maintained for all staff.",
+        "standards": [
+            {
+                "code": "HRM.1",
+                "standard": "The organisation has a documented system of human resource planning.",
+                "elements": [
+                    "a. Human resource planning supports the organisation's current and future ability to meet the care, treatment and service needs of the patient.",
+                    "b. The organisation maintains an adequate number and mix of staff to meet the care, treatment and service needs of the patient.",
+                    "c. The organisation has contingency plans to manage long- and short-term workforce shortages, including unplanned shortages.",
+                    "d. The job specification and job description are defined for each category of staff. *",
+                    "e. The organisation performs a background check of new staff.",
+                    "f. Reporting relationships are defined for each category of staff. *",
+                    "g. Exit interviews are conducted and used as a tool to improve human resource practices."
+                ]
+            },
+            {
+                "code": "HRM.2",
+                "standard": "The organisation implements a defined process for staff recruitment.",
+                "elements": [
+                    "a. Written guidance governs the process of recruitment. *",
+                    "b. A pre-employment medical examination is conducted on the staff.",
+                    "c. The organisation defines and implements a code of conduct for its staff.",
+                    "d. Administrative procedures for human resource management are documented .*"
+                ]
+            },
+            {
+                "code": "HRM.3",
+                "standard": "Staff are provided induction training at the time of joining the organisation.",
+                "elements": [
+                    "a. Staff are provided with induction training.",
+                    "b. The induction training includes orientation to the organisation's vision, mission and values.",
+                    "c. The induction training includes awareness on staff rights and responsibilities and patient rights and responsibilities.",
+                    "d. The induction training includes training on safety.",
+                    "e. The induction training includes training on cardio-pulmonary resuscitation for staff providing direct patient care.",
+                    "f. The induction training includes training in hospital infection prevention and control.",
+                    "g. The induction training includes orientation to the service standards of the organisation.",
+                    "h. The induction training includes an orientation on administrative procedures.",
+                    "i. The induction training includes an orientation on relevant department/unit/ service/programme's policies and procedures."
+                ]
+            },
+            {
+                "code": "HRM.4",
+                "standard": "There is an on-going programme for professional training and development of the staff.",
+                "elements": [
+                    "a. Written guidance governs training and development policy for the staff.*",
+                    "b. The organisation maintains the training record.",
+                    "c. Training also occurs when job responsibilities change/new equipment is introduced.",
+                    "d. Feedback mechanisms are in place for improvement of training and development programme.",
+                    "e. Evaluation of training effectiveness is done by the organisation.",
+                    "f. The organisation supports continuing professional development and learning."
+                ]
+            },
+            {
+                "code": "HRM.5",
+                "standard": "Staff are appropriately trained based on their specific job description.",
+                "elements": [
+                    "a. Staff involved in blood transfusion services are trained on the handling of blood and blood products.",
+                    "b. Staff are trained in handling vulnerable patients.",
+                    "c. Staff are trained in control and restraint techniques.",
+                    "d. Staff are trained in healthcare communication techniques.",
+                    "e. Staff involved in direct patient care are provided training on cardiopulmonary resuscitation periodically.",
+                    "f. Staff are provided training on infection prevention and control."
+                ]
+            },
+            {
+                "code": "HRM.6",
+                "standard": "Staff are trained in safety and quality-related aspects.",
+                "elements": [
+                    "a. Staff are trained on the organisation's safety programme.",
+                    "b. Staff are provided training on the detection, handling, minimisation and elimination of identified risks within the organisation's environment.",
+                    "c. Staff members are made aware of procedures to follow in the event of an incident.",
+                    "d. Staff are trained in occupational safety aspects.",
+                    "e. Staff are trained in the organisation's disaster management plan.",
+                    "f. Staff are trained in handling fire and non-fire emergencies.",
+                    "g. Staff are trained on the organisation's quality improvement programme"
+                ]
+            },
+            {
+                "code": "HRM.7",
+                "standard": "An appraisal system for evaluating the performance of staff exists as an integral part of the human resource management process.",
+                "elements": [
+                    "a. Performance appraisal is done for staff within the organisation.*",
+                    "b. The staff are made aware of the system of appraisal at the time of induction.",
+                    "c. Performance is evaluated based on the pre-determined criteria.",
+                    "d. The appraisal system is used as a tool for further development.",
+                    "e. Performance appraisal is carried out at defined intervals and is documented."
+                ]
+            },
+            {
+                "code": "HRM.8",
+                "standard": "Process for disciplinary and grievance handling is defined and implemented in the organisation.",
+                "elements": [
+                    "a. Written guidance governs disciplinary and grievance handling mechanisms.*",
+                    "b. The disciplinary and grievance handling mechanism is known to all categories of staff of the organisation.",
+                    "c. The disciplinary policy and procedure are based on the principles of natural justice.",
+                    "d. The disciplinary and grievance procedure is in consonance with the prevailing laws.",
+                    "e. There is a provision for appeals in all disciplinary cases.",
+                    "f. Actions are taken to redress the grievance."
+                ]
+            },
+            {
+                "code": "HRM.9",
+                "standard": "The organisation promotes staff well-being and addresses their health and safety needs.",
+                "elements": [
+                    "a. Staff well-being is promoted.",
+                    "b. Health problems of the staff, including occupational health hazards, are taken care of in accordance with the organisation's policy.",
+                    "c. Health checks of staff dealing with direct patient care are done at least once a year and the findings/results are documented.",
+                    "d. Organisation provides treatment to staff who sustain workplace-related injuries.",
+                    "e. The organisation has measures in place for prevention and handling workplace violence."
+                ]
+            },
+            {
+                "code": "HRM.10",
+                "standard": "There is documented personal information for each staff member.",
+                "elements": [
+                    "a. Personal files are maintained with respect to all staff, and their confidentiality is ensured",
+                    "b. The personal files contain personal information regarding the staff's qualification, job description, verification of credentials and health status.",
+                    "c. Records of in-service training and education are contained in the personal files.",
+                    "d. Personal files contain results of all evaluations and remarks."
+                ]
+            },
+            {
+                "code": "HRM.11",
+                "standard": "There is a process for credentialing and privileging of medical professionals, permitted to provide patient care without supervision.",
+                "elements": [
+                    "a. Medical professionals permitted by law, regulation and the organisation to provide patient care without supervision are identified.",
+                    "b. The education, registration, training and experience of the identified medical professionals are documented and updated periodically.",
+                    "c. The information about medical professionals is appropriately verified when possible.",
+                    "d. Medical professionals are granted privileges to admit and care for patients in consonance with their qualification, training, experience and registration.",
+                    "e. The requisite services to be provided by the medical professionals are known to them as well as the various departments/units of the organisation.",
+                    "f. Medical professionals admit and care for patients as per their privileging."
+                ]
+            },
+            {
+                "code": "HRM.12",
+                "standard": "There is a process for credentialing and privileging of nursing professionals, permitted to provide patient care without supervision.",
+                "elements": [
+                    "a. Nursing staff permitted by law, regulation and the organisation to provide patient care without supervision are identified.",
+                    "b. The education, registration, training and experience of nursing staff are appropriately verified, documented and updated periodically.",
+                    "c. The information about the nursing staff is appropriately verified when possible.",
+                    "d. Nursing staff are granted privileges in consonance with their qualification, training, experience and registration.",
+                    "e. The requisite services to be provided by the nursing staff are known to them as well as the various departments/units of the organisation.",
+                    "f. Nursing professionals care for patients as per their privileging."
+                ]
+            },
+            {
+                "code": "HRM.13",
+                "standard": "There is a process for credentialing and privileging of para-clinical professionals, permitted to provide patient care without supervision.",
+                "elements": [
+                    "a. Para-clinical professionals permitted by law, regulation and the organisation to provide patient care without supervision are identified.",
+                    "b. The education, registration, training and experience of para clinical professionals are appropriately verified, documented and updated periodically.",
+                    "c. Para-clinical professionals are granted privileges in consonance with their qualification, training, experience and registration.",
+                    "d. The requisite services to be provided by the para-clinical professionals are known to them as well as the various departments/units of the organisation.",
+                    "e. Para-clinical professionals care for patients as per their privileging."
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Chapter 10: Information Management System (IMS)",
+        "intent": "The goal of information management in the organisation is to ensure that the right information is available to the right person at the right time. Information management includes management of hospital information system as well as all modalities of information communicated to staff, patients, visitors and community in general. Data and information management must be directed to meet the organisation's needs and support the delivery of quality patient care. Confidentiality, integrity and security of records, data and information is maintained. Information management also includes periodic review, revision and withdrawal of obsolete information to avoid confusion among staff, patients and visitors. The organisation maintains a complete and accurate medical record for every patient. Various aspects of the medical record like contents, staff authorised to make entries and retention of records are addressed effectively by the organisation.",
+        "standards": [
+            {
+                "code": "IMS.1",
+                "standard": "Information needs of the patients, visitors, staff, management and external agencies are met.",
+                "elements": [
+                    "a. The organisation identifies the information needs of the patients, visitors, staff, management external agencies and community. *",
+                    "b. Identified information needs are captured and/or disseminated.",
+                    "c. Information management and technology acquisitions are commensurate with the identified information needs.",
+                    "d. A maintenance plan for information technology and communication network is implemented.",
+                    "e. Contingency plan ensures continuity of information capture, integration and dissemination.",
+                    "f. The organisation ensures that information resources are accurate and meet stakeholder requirements.",
+                    "g. The organisation contributes to external databases in accordance with the law and regulations."
+                ]
+            },
+            {
+                "code": "IMS.2",
+                "standard": "The organisation has processes in place for management and control of data and information.",
+                "elements": [
+                    "a. Processes for data collection are standardised.",
+                    "b. Data is analysed to meet the information needs.",
+                    "c. The organisation disseminates the information in a timely and accurate manner.",
+                    "d. The organisation stores and retrieves data according to its information needs. *",
+                    "e. Clinical and managerial staff participate in selecting, integrating and using data for meeting the information needs."
+                ]
+            },
+            {
+                "code": "IMS.3",
+                "standard": "The patients cared for by the organisation have a complete and accurate medical record.",
+                "elements": [
+                    "a. The unique identifier is assigned to the medical record.",
+                    "b. The contents of the medical record are identified and documented. *",
+                    "c. The medical record provides a complete, up-to-date and chronological account of patient care.",
+                    "d. Authorised staff make the entry in the medical record. *",
+                    "e. Entry in the medical record is signed, dated and timed.",
+                    "f. The author of the entry can be identified.",
+                    "g. The medical record has only authorised abbreviations."
+                ]
+            },
+            {
+                "code": "IMS.4",
+                "standard": "The medical record reflects the continuity of care.",
+                "elements": [
+                    "a. The medical record contains information regarding reasons for admission, diagnosis and care plan.",
+                    "b. The medical record contains the details of assessments, re-assessments and consultations.",
+                    "c. The medical record contains the results of investigations and the details of the care provided.",
+                    "d. Operative and other procedures performed are incorporated in the medical record.",
+                    "e. When a patient is transferred to another organisation, the medical record contains the details of the transfer.",
+                    "f. The medical record contains a copy of the discharge summary.",
+                    "g. In case of death, the medical record contains a copy of the cause of death report.",
+                    "h. Care providers have access to current and past medical record."
+                ]
+            },
+            {
+                "code": "IMS.5",
+                "standard": "The organisation maintains confidentiality, integrity and security of records, data and information.",
+                "elements": [
+                    "a. The organisation maintains the confidentiality of records, data and information.*",
+                    "b. The organisation maintains the integrity of records, data and information. *",
+                    "c. The organisation maintains the security of records, data and information.*",
+                    "d. The organisation uses developments in appropriate technology for improving confidentiality, integrity and security.",
+                    "e. The organisation discloses privileged health information as authorised by the patient and/or as required by law.",
+                    "f. Request for access to information in the medical records by patients/physicians and other public agencies are addressed consistently.*"
+                ]
+            },
+            {
+                "code": "IMS.6",
+                "standard": "The organisation ensures availability of current and relevant documents, records, data and information and provides for retention of the same.",
+                "elements": [
+                    "a. The organisation has an effective process for document control. *",
+                    "b. The organisation retains patient's clinical records, data and information according to its requirements. *",
+                    "c. The retention process provides expected confidentiality and security.",
+                    "d. The destruction of medical records, data and information are in accordance with the written guidance.*"
+                ]
+            },
+            {
+                "code": "IMS.7",
+                "standard": "The organisation carries out a review of medical records.",
+                "elements": [
+                    "a. The medical records are reviewed periodically.",
+                    "b. The review uses a representative sample based on statistical principles.",
+                    "c. The review is conducted by identified individuals.",
+                    "d. The review of records is based on identified parameters.",
+                    "e. The review process includes records of both active and discharged patients.",
+                    "f. The review points out and documents any deficiencies in records.",
+                    "g. Appropriate corrective and preventive measures are undertaken."
+                ]
+            }
+        ]
+    }
+]

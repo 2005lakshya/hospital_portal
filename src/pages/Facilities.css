@@ -1,0 +1,176 @@
+.facilities-page {
+    animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.facilities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.facility-card {
+    background: var(--card-bg);
+    border-radius: var(--radius-lg);
+    padding: 2.25rem;
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition);
+    display: flex;
+    flex-direction: column;
+}
+
+.facility-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-premium);
+    border-color: var(--primary-glow);
+}
+
+.fac-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.fac-icon {
+    width: 60px;
+    height: 60px;
+    background: var(--bg-color);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--primary);
+    box-shadow: inset 0 0 12px rgba(0, 0, 0, 0.02);
+}
+
+.fac-status {
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    font-size: 0.8rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.status-avail {
+    background: rgba(36, 161, 72, 0.1);
+    color: var(--success);
+}
+
+.status-busy {
+    background: rgba(245, 166, 35, 0.1);
+    color: var(--warning);
+}
+
+.status-full {
+    background: rgba(218, 30, 40, 0.1);
+    color: var(--danger);
+}
+
+.fac-body h3 {
+    font-size: 1.4rem;
+    margin-bottom: 0.75rem;
+    color: var(--text-main);
+    font-weight: 800;
+}
+
+.fac-meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.75rem;
+}
+
+.fac-dept {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--text-muted);
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.fac-footer {
+    margin-top: 2.5rem;
+}
+
+/* Admin Styles */
+.util-bar {
+    margin-top: 1.5rem;
+}
+
+.util-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    margin-bottom: 0.4rem;
+    text-transform: uppercase;
+}
+
+.progress-bg {
+    height: 6px;
+    background: var(--bg-color);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progress-fill {
+    height: 100%;
+    background: var(--primary);
+    border-radius: 10px;
+}
+
+.admin-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+.btn-icon {
+    background: var(--bg-color);
+    border: 1px solid var(--border);
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.btn-icon:hover {
+    background: white;
+    box-shadow: var(--shadow-sm);
+    border-color: var(--primary);
+}
+
+.fac-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.check-group {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    cursor: pointer;
+}
+
+.check-group input {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+.check-group label {
+    margin-bottom: 0;
+    text-transform: none;
+    cursor: pointer;
+}
