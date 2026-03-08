@@ -1,8 +1,7 @@
 import { createClient } from '@supabase/supabase-js';
 
-// IMPORTANT: Replace these with your actual Supabase project credentials
-// You can find them in your Supabase Dashboard under Project Settings -> API
-const supabaseUrl = 'https://ydzsygehandefbjnzgku.supabase.co';
-const supabaseKey = 'sb_publishable_lcHWByEoRykstvHwLubD4A_KIspxXAb';
+// Use environment variables for Supabase credentials
+const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
+const supabaseKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
 
 export const supabase = createClient(supabaseUrl, supabaseKey);
