@@ -9,7 +9,8 @@ import {
     Calendar,
     Building2,
     ThumbsUp,
-    ThumbsDown
+    ThumbsDown,
+    Trash2
 } from 'lucide-react';
 import './Feedback.css';
 
